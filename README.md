@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Abimanyu+Kurogane+%7C+Drafter+%26+Code+Ronin;AutoCAD+Automation+%7C+Minecraft+%7C+Real-Time+Workflow+%7C+Core+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Slynderin+%7C+Drafter+%26+Code+Ronin;AutoCAD+Automation+%7C+Minecraft+%7C+Real-Time+Workflow+%7C+Core+Management" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -144,17 +144,17 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Slynderin&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slynderin&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=MRxAlwix&theme=dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Slynderin&theme=dark&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRxAlwix&theme=midnight_purple"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slynderin&theme=midnight_purple"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRxAlwix&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slynderin&theme=dracula"/>
 </p>
 
 ---
