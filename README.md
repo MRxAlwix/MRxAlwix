@@ -144,17 +144,17 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Slynderin&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slynderin&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Slynderin&theme=dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=MRxAlwix&theme=dark&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slynderin&theme=midnight_purple"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRxAlwix&theme=midnight_purple"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slynderin&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRxAlwix&theme=dracula"/>
 </p>
 
 ---
