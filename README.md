@@ -4,7 +4,8 @@
 -->
 
 <p align="center">
-<div style="width:100%;height:0;padding-bottom:107%;position:relative;"><iframe src="https://giphy.com/embed/4ilFRqgbzbx4c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c">via GIPHY</a></p></p>
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="400"/>
+</p>
 
 <br>
 
