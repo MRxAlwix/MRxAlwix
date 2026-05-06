@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abimanyu Senpai">
-    <img src="https://img.shields.io/badge/LinkedIn-Abimanyu%20Oni-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abimanyu%20Senpai-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Discord-Abimanyu%20Kurogane%230721-6366F1?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-Slynderin%230721-6366F1?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Lintang%20Studio-Website%20Coming%20Soon-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lintang%20Studio-Website%20On%20Going-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
