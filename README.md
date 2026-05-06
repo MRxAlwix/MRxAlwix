@@ -14,8 +14,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abimanyu Senpai">
-    <img src="https://img.shields.io/badge/LinkedIn-Abimanyu%20Senpai-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/abimanyulw">
+    <img src="https://img.shields.io/badge/LinkedIn-Abimanyu%20lw-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-Slynderin%230721-6366F1?style=for-the-badge&logo=discord&logoColor=white"/>
