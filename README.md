@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1355394882860089425/1386310235378946058/a_d04d1dd106a26c3d1b51595230156f3b.gif?ex=68607dc4&is=685f2c44&hm=75322e9112c214cf9e400eb744df15232589018e7fb877afcb9fd65ec0e39fc5&](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liMTh5ZWtpbGlmNGc0Mm5tMWVsazVoNWl1b2R4OWxrNTF6c3c1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif)" alt="Banner" width="100%" style="max-height:220px;object-fit:cover;display:block;" />
+  <img src="<div style="width:100%;height:0;padding-bottom:107%;position:relative;"><iframe src="https://giphy.com/embed/4ilFRqgbzbx4c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smoking-cowboy-bebop-4ilFRqgbzbx4c">via GIPHY</a></p>" alt="Banner" width="100%" style="max-height:220px;object-fit:cover;display:block;" />
 </p>
 
 <br>
