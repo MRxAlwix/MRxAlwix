@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abimanyuoni">
+  <a href="https://linkedin.com/in/abimanyu Senpai">
     <img src="https://img.shields.io/badge/LinkedIn-Abimanyu%20Oni-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="#">
