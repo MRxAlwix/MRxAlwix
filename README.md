@@ -1,138 +1,78 @@
-<p align="center">
+<div align="center">
 
-```
- ██  ███  ███ █   █  ██  █   █ █   █ █   █ 
-█  █ █  █  █  ██ ██ █  █ ██  █  █ █  █   █ 
-████ ███   █  █ █ █ ████ █ █ █   █   █   █ 
-█  █ █  █  █  █   █ █  █ █  ██   █   █   █ 
-█  █ ███  ███ █   █ █  █ █   █   █    ███  
-```
+# ABIMANYU
 
-</p>
+### Technical Drafter • Automation Developer • Founder of Lintang Studio
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Technical+Drafter+%C3%97+Tools+Developer;Founder+of+Lintang+Studio;Precision+in%2C+Productivity+out." alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abimanyulw">
-    <img src="https://img.shields.io/badge/LinkedIn-Abimanyu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-Slynderin%230721-6366F1?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Lintang%20Studio-Coming%20Soon-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRxAlwix&style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/github/followers/MRxAlwix?style=for-the-badge&color=7C3AED"/>
-</p>
-
-<p align="center">
-  ✦ ✦ ✦
-</p>
-
-<p align="center">
-  <i>"Setiap garis teknik punya logika. Setiap baris kode punya presisi. Gue bangun keduanya."</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Tools+That+Save+Time.;CAD+Automation+%E2%80%A2+Productivity+Systems.;Precision+in+Every+Line." />
 
 <br>
 
-## 🧬 Tentang Gue
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abimanyu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimanyulw)
+![Lintang Studio](https://img.shields.io/badge/Lintang_Studio-Coming_Soon-111827?style=for-the-badge)
 
-Drafter yang belajar coding, developer yang paham gambar teknik. Fokus gue bukan main-main sama game — tapi bikin **tools yang mempercepat kerja gambar** dan **sistem yang ningkatin produktivitas** sehari-hari.
+</div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+---
 
-**🏗️ Technical Drafter**
-AutoCAD · LISP Automation · CAD QC · Layout & Block System
+## About
 
-</td>
-<td width="50%" valign="top">
+I'm a **Technical Drafter** who enjoys building software that removes repetitive work.
 
-**⚙️ Tools Developer**
-Automation script · Batch workflow · Sistem produktivitas
+My focus isn't making games—it's creating tools, automation, and productivity systems that help engineers and designers work faster with less effort.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+> **Precision meets productivity.**
 
-**🧭 Productivity Builder**
-Dashboard, script, dan sistem yang motong kerjaan manual
+---
 
-</td>
-<td width="50%" valign="top">
+## Tech Stack
 
-**🌟 Founder — Lintang Studio**
-Studio creative × technical, rumah dari semua project gue
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,figma&perline=5"/>
 
-<br>
+</div>
 
-## 🛠️ Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,nodejs,ts,react,nextjs,tailwind,mongodb,firebase,git,github,figma&theme=dark" />
-</p>
+## Featured Projects
 
-<br>
+### 🧠 Abimanyu Core Management
+The orchestration engine behind my automation ecosystem.
 
-## 🚧 Proyek Aktif
+### ⚡ AutoCAD Magic Tools
+A collection of AutoLISP utilities that reduce hours of drafting into minutes.
 
-<table align="center" width="100%">
-<tr>
-<th>Project</th>
-<th>Deskripsi</th>
-</tr>
-<tr>
-<td><b><a href="https://github.com/MRxAlwix/Abimanyu-Core-Management">Abimanyu-Core-Management</a></b></td>
-<td>Sistem orchestration modular — otaknya semua tools & workflow</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/MRxAlwix/AutoCAD-Magic-Tools">AutoCAD-Magic-Tools</a></b></td>
-<td>LISP macro suite, motong kerjaan gambar 3 jam jadi 20 menit</td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/MRxAlwix/CAD-Block-Batcher">CAD-Block-Batcher</a></b></td>
-<td>Batch rename & automation block AutoCAD, satu klik ratusan drawing selesai</td>
-</tr>
-</table>
+### 🏗 CAD Block Batcher
+Batch rename and organize AutoCAD blocks with a single workflow.
 
-<br>
+---
 
-## 🌟 Lintang Studio
+## Currently Building
 
-> **Tempat presisi teknik bertemu produktivitas digital.**
+- ⚡ CAD Automation
+- 🏗 Productivity Systems
+- 🧩 Internal Workflow Tools
+- 🚀 Lintang Studio
 
-```
-Mission  : Build tools that make real work easier
-Focus    : CAD Automation · Productivity Systems
-Values   : Precision · Modularity · Clean Execution
-Status   : Actively Growing
-```
+---
 
-<br>
+## GitHub Stats
 
-<p align="center">✦ ✦ ✦</p>
+<div align="center">
 
-## 🌍 Connect
+![](https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abimanyulw">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-<p align="center">
-  <sub><i>Precision meets productivity — Lintang Studio.</i></sub>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### Lintang Studio
+
+*Building tools that make real work easier.*
+
+</div>
