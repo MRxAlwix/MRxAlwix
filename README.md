@@ -1,78 +1,111 @@
 <div align="center">
 
-# ABIMANYU
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=ABIMANYU&fontSize=72&fontAlignY=38&color=0:0F172A,35:4F46E5,70:7C3AED,100:C084FC&animation=fadeIn&fontColor=ffffff"/>
 
-### Technical Drafter • Automation Developer • Founder of Lintang Studio
+# ⚡ Technical Drafter × Automation Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Tools+That+Save+Time.;CAD+Automation+%E2%80%A2+Productivity+Systems.;Precision+in+Every+Line." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Building+Software+That+Engineers+Actually+Use.;CAD+Automation+%E2%80%A2+Productivity+Systems.;Founder+of+Lintang+Studio.;Less+Repetition.+More+Creation."/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abimanyu-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimanyulw)
-![Lintang Studio](https://img.shields.io/badge/Lintang_Studio-Coming_Soon-111827?style=for-the-badge)
+<a href="https://linkedin.com/in/abimanyulw">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Lintang_Studio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=MRxAlwix&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-## About
+# 🧬 About
 
-I'm a **Technical Drafter** who enjoys building software that removes repetitive work.
+```yaml
+Name:
+  Abimanyu
 
-My focus isn't making games—it's creating tools, automation, and productivity systems that help engineers and designers work faster with less effort.
+Role:
+  - Technical Drafter
+  - Automation Developer
 
-> **Precision meets productivity.**
+Building:
+  - CAD Automation
+  - Productivity Systems
+  - Internal Tools
+  - Lintang Studio
+
+Mission:
+  Eliminate repetitive work through software.
+
+Philosophy:
+  Precision first.
+```
 
 ---
 
-## Tech Stack
+# ⚙ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,figma&perline=5"/>
+<img src="https://skillicons.dev/icons?i=autocad,ts,js,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,figma,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## Featured Projects
+# 🚀 Flagship Projects
 
-### 🧠 Abimanyu Core Management
-The orchestration engine behind my automation ecosystem.
-
-### ⚡ AutoCAD Magic Tools
-A collection of AutoLISP utilities that reduce hours of drafting into minutes.
-
-### 🏗 CAD Block Batcher
-Batch rename and organize AutoCAD blocks with a single workflow.
+| Project | Description |
+|----------|-------------|
+| 🧠 **Abimanyu Core** | Central engine powering every automation workflow. |
+| ⚡ **AutoCAD Magic Tools** | AutoLISP toolkit that cuts drafting time dramatically. |
+| 🏗 **CAD Block Batcher** | Rename, organize, and process hundreds of CAD blocks automatically. |
 
 ---
 
-## Currently Building
-
-- ⚡ CAD Automation
-- 🏗 Productivity Systems
-- 🧩 Internal Workflow Tools
-- 🚀 Lintang Studio
-
----
-
-## GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+<img height="170" src="https://streak-stats.demolab.com?user=MRxAlwix&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
+# 🌌 Lintang Studio
+
+> **Engineering precision meets software craftsmanship.**
+
+```text
+██████████████████████████████████████
+
+Build.
+Automate.
+Optimize.
+Repeat.
+
+██████████████████████████████████████
+```
+
+---
+
 <div align="center">
 
-### Lintang Studio
+> *"Great tools don't replace people. They remove the boring parts."*
 
-*Building tools that make real work easier.*
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,35:4F46E5,70:7C3AED,100:C084FC"/>
 
 </div>
