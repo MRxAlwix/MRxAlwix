@@ -51,15 +51,6 @@ Drafter yang belajar coding, developer yang paham gambar teknik. Gue bawa mindse
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
