@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/DnhwDPt62MJesiDNfT/giphy.gif" width="800" height="270"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abimanyu+%E2%80%94+MRxAlwix;Technical+Drafter+%C3%97+Developer;Founder+of+Lintang+Studio" alt="Typing SVG" />
 </p>
 
@@ -20,11 +24,11 @@
 
 ### 🧬 Tentang Gue
 
-Drafter yang belajar coding, developer yang paham gambar teknik. Gue bawa mindset presisi dari dunia AutoCAD ke dunia software — automasi workflow, sistem real-time, dan tools yang beneran kepake.
+Drafter yang belajar coding, developer yang paham gambar teknik. Gue bawa mindset presisi dari dunia AutoCAD ke dunia software — fokus bikin tools yang mempercepat kerja gambar dan ningkatin produktivitas sehari-hari.
 
 - 🏗️ **Technical Drafter** — AutoCAD, LISP automation, CAD QC
-- ⚙️ **Developer** — Next.js, Node.js, real-time systems
-- 🎮 **Game Dev** — Minecraft plugin & RPG systems
+- ⚙️ **Tools Developer** — bikin automation & sistem buat mempercepat workflow gambar
+- 🧭 **Productivity Builder** — dashboard, script, dan sistem yang motong kerjaan manual
 - 🌟 **Founder** — Lintang Studio (creative × technical studio)
 
 ---
@@ -41,10 +45,9 @@ Drafter yang belajar coding, developer yang paham gambar teknik. Gue bawa mindse
 
 | Project | Deskripsi |
 |:---|:---|
-| **[Abimanyu-Core-Management](https://github.com/MRxAlwix/Abimanyu-Core-Management)** | Sistem orchestration modular — otaknya semua plugin & workflow |
-| **[AutoCAD-Magic-Tools](https://github.com/MRxAlwix/AutoCAD-Magic-Tools)** | LISP macro suite, motong kerjaan 3 jam jadi 20 menit |
-| **Ardentia Plugin Suite** | RPG ecosystem untuk Minecraft (stats, quests, skills, dungeons) |
-| **[TopUp-Minecraft-RT](https://github.com/MRxAlwix/TopUp-Minecraft-RT)** | Top-up point real-time dengan sinkronisasi server |
+| **[Abimanyu-Core-Management](https://github.com/MRxAlwix/Abimanyu-Core-Management)** | Sistem orchestration modular — otaknya semua tools & workflow |
+| **[AutoCAD-Magic-Tools](https://github.com/MRxAlwix/AutoCAD-Magic-Tools)** | LISP macro suite, motong kerjaan gambar 3 jam jadi 20 menit |
+| **[CAD-Block-Batcher](https://github.com/MRxAlwix/CAD-Block-Batcher)** | Batch rename & automation block AutoCAD, satu klik ratusan drawing selesai |
 
 ---
 
