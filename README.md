@@ -14,9 +14,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=MRxAlwix&style=flat-square&color=7C3AED"/>
+<a href="https://github.com/MRxAlwix">
+<img src="https://img.shields.io/badge/GitHub-MRxAlwix-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Lintang%20Studio-Building-111827?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=MRxAlwix&style=flat-square&color=7C3AED"/>
 
 </div>
 
@@ -26,7 +28,7 @@
 
 I design workflows before writing code.
 
-My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity Systems**—building software that removes repetitive work and helps engineers move faster.
+My focus is building **CAD Automation**, **Developer Tools**, and **Productivity Systems** that eliminate repetitive work and help engineers move faster.
 
 > **Precision first. Automation second. Simplicity always.**
 
@@ -35,7 +37,7 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
 # Dashboard
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👤 Name        Abimanyu
 
@@ -50,9 +52,9 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
                Productivity Systems
                Internal Developer Tools
 
-🚀 Status      Building
+🚀 Status      Building Every Day
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -61,7 +63,7 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=autocad,ts,js,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,vscode,figma&theme=dark"/>
 
 <br><br>
 
@@ -71,27 +73,55 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
 
 ---
 
-# Selected Projects
+# Featured Projects
 
 ## 🧠 Abimanyu Core
 
-The central engine behind every automation workflow.
+The central engine powering every automation workflow.
 
-Built to connect scripts, tools, and systems into one modular ecosystem.
+A modular ecosystem connecting scripts, tools, and internal systems.
 
 ---
 
 ## ⚡ AutoCAD Magic Tools
 
-AutoLISP utilities built to eliminate repetitive drafting work.
+AutoLISP utilities built to remove repetitive drafting work.
 
-Saving hours—not minutes.
+Designed to save hours—not minutes.
 
 ---
 
 ## 📦 CAD Block Batcher
 
 Batch rename, organize, and automate hundreds of AutoCAD drawings with one workflow.
+
+---
+
+# Current Build
+
+```text
+🟢 Abimanyu Core
+
+██████████████████░░ 90%
+
+──────────────────────────────────
+
+🟢 AutoCAD Magic Tools
+
+████████████████░░░░ 82%
+
+──────────────────────────────────
+
+🟡 CAD Block Batcher
+
+███████████████░░░░░ 78%
+
+──────────────────────────────────
+
+🟣 Lintang Studio
+
+█████████████░░░░░░░ 70%
+```
 
 ---
 
@@ -115,40 +145,6 @@ Building Productivity Software
 
 ---
 
-# Current Focus
-
-```text
-CAD Automation          ████████████████░░   90%
-
-Developer Tools         ██████████████░░░░   82%
-
-Workflow Systems        ███████████████░░░   88%
-
-Lintang Studio          ████████████░░░░░░   72%
-```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRxAlwix&theme=github_dark"/>
-
-</div>
-
----
-
 # Philosophy
 
 > Less clicking.
@@ -161,34 +157,36 @@ Lintang Studio          ████████████░░░░░░  
 
 ---
 
-# Lintang Studio
+# Connect
 
-```text
-────────────────────────────────────────────
+<div align="center">
 
-BUILD.
+<a href="https://linkedin.com/in/abimanyulw">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-AUTOMATE.
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-OPTIMIZE.
-
-────────────────────────────────────────────
-
-Engineering × Software × Productivity
-
-────────────────────────────────────────────
-```
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting.
+## Lintang Studio
 
-*"Good software doesn't impress people. It gives them their time back."*
+**Build • Automate • Optimize**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+*"Good software doesn't impress people.*
+
+*It gives them their time back."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
