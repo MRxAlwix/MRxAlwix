@@ -6,12 +6,12 @@
 
 ### Technical Drafter • Automation Developer • Founder of Lintang Studio
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Designing+Better+Workflows.;Automating+Repetitive+Tasks.;Engineering+Useful+Software.;Building+Lintang+Studio."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Engineering+Better+Workflows.;Automating+Repetitive+Tasks.;Building+Useful+Software.;Founder+of+Lintang+Studio."/>
 
 <br>
 
 <a href="https://linkedin.com/in/abimanyulw">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=MRxAlwix&style=flat-square&color=7C3AED"/>
@@ -22,9 +22,9 @@
 
 ---
 
-# 👋 Hi, I'm Abimanyu.
+# About
 
-I design workflows before I write code.
+I design workflows before writing code.
 
 My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity Systems**—building software that removes repetitive work and helps engineers move faster.
 
@@ -32,10 +32,10 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
 
 ---
 
-# 📍 Dashboard
+# Dashboard
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👤 Name        Abimanyu
 
@@ -52,54 +52,56 @@ My work focuses on **CAD Automation**, **Developer Tools**, and **Productivity S
 
 🚀 Status      Building
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# ⚒ Tech Arsenal
+# Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,mongodb,firebase,git,github,vscode,figma&theme=dark"/>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,vercel,cloudflare,postman,npm&theme=dark"/>
+
 </div>
 
 ---
 
-# 🚀 Selected Projects
+# Selected Projects
 
-### 🧠 Abimanyu Core
+## 🧠 Abimanyu Core
 
-The engine behind every automation workflow.
+The central engine behind every automation workflow.
 
-A modular ecosystem connecting scripts, tools, and internal systems.
-
----
-
-### ⚡ AutoCAD Magic Tools
-
-A growing collection of AutoLISP utilities designed to eliminate repetitive drafting work.
-
-Saving hours instead of minutes.
+Built to connect scripts, tools, and systems into one modular ecosystem.
 
 ---
 
-### 📦 CAD Block Batcher
+## ⚡ AutoCAD Magic Tools
 
-Batch rename, organize, and automate hundreds of AutoCAD drawings with a single workflow.
+AutoLISP utilities built to eliminate repetitive drafting work.
+
+Saving hours—not minutes.
 
 ---
 
-# 🛣 Journey
+## 📦 CAD Block Batcher
+
+Batch rename, organize, and automate hundreds of AutoCAD drawings with one workflow.
+
+---
+
+# Journey
 
 ```text
-2024
-
-Started learning programming
+Started Programming
         │
         ▼
-Built AutoLISP automation
+Built AutoLISP Automation
         │
         ▼
 Created Abimanyu Core
@@ -108,50 +110,58 @@ Created Abimanyu Core
 Founded Lintang Studio
         │
         ▼
-Building productivity software
+Building Productivity Software
 ```
 
 ---
 
-# 📈 Current Focus
+# Current Focus
 
 ```text
-CAD Automation          ████████████████░░░   90%
+CAD Automation          ████████████████░░   90%
 
-Developer Tools         ██████████████░░░░░   82%
+Developer Tools         ██████████████░░░░   82%
 
-Workflow Systems        ███████████████░░░░   88%
+Workflow Systems        ███████████████░░░   88%
 
-Lintang Studio          ████████████░░░░░░░   72%
+Lintang Studio          ████████████░░░░░░   72%
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MRxAlwix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRxAlwix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRxAlwix&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 💭 Philosophy
+# Philosophy
 
 > Less clicking.
->
+
 > More creating.
->
+
 > Less repetition.
->
+
 > More engineering.
 
 ---
 
-# 🌌 Lintang Studio
+# Lintang Studio
 
 ```text
 ────────────────────────────────────────────
@@ -173,9 +183,9 @@ Engineering × Software × Productivity
 
 <div align="center">
 
-### "Good software doesn't impress people."
+### Thanks for visiting.
 
-### "It gives them their time back."
+*"Good software doesn't impress people. It gives them their time back."*
 
 <br>
 
